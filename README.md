@@ -106,3 +106,4 @@ flutter test --coverage
 
 La suite de integración para login, carga de eventos y reserva se ejecuta en un simulador/dispositivo con `flutter test integration_test/critical_user_flows_test.dart -d <dispositivo>`. Las pruebas automatizadas usan fakes y no necesitan credenciales de producción. El smoke test autenticado y las pruebas de RLS con dos usuarios requieren una cuenta de prueba confirmada y un entorno de Supabase adecuado.
 
+Consulta la [estrategia de pruebas y el reporte de cobertura](specs/testing.md) para ver qué se prueba, por qué y los resultados actuales.
