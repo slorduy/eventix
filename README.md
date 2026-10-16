@@ -13,6 +13,26 @@ Eventix es una aplicación Flutter para descubrir eventos, filtrarlos y simular 
 
 El proyecto incluye cinco eventos ficticios publicados para demostración. Sus categorías son Música en vivo, Tecnología, Teatro, Deportes y Gastronomía; las ciudades son Bogotá, Medellín, Cali y Barranquilla.
 
+## Capturas de pantalla
+
+Las capturas del flujo principal están en [`screenshots/`](screenshots/):
+
+| Inicio de sesión | Registro |
+|---|---|
+| <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.43%E2%80%AFPM.png" width="260" alt="Pantalla de inicio de sesión"> | <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.46%E2%80%AFPM.png" width="260" alt="Pantalla de registro"> |
+
+| Catálogo y filtros | Detalle del evento |
+|---|---|
+| <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.08%E2%80%AFPM.png" width="260" alt="Catálogo de eventos y filtros"> | <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.19%E2%80%AFPM.png" width="260" alt="Detalle de un evento"> |
+
+| Confirmación pendiente | Reserva confirmada |
+|---|---|
+| <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.24%E2%80%AFPM.png" width="260" alt="Resumen antes de confirmar la reserva"> | <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.29%E2%80%AFPM.png" width="260" alt="Reserva confirmada con acciones para continuar"> |
+
+| Mis reservas | Detalle de reserva y tickets |
+|---|---|
+| <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.33%E2%80%AFPM.png" width="260" alt="Lista de reservas del usuario"> | <img src="screenshots/Screenshot%20iPhone%2016%20Pro%2016-10-2026%20at%2012.36.36%E2%80%AFPM.png" width="260" alt="Detalle de reserva con tickets"> |
+
 ## Arquitectura
 
 El código mantiene una separación por capas:
